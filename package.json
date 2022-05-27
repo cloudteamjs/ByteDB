@@ -1,0 +1,24 @@
+{
+  "name": "byte.db",
+  "version": "1.0.0",
+  "description": "JS wrapper for @cloudteamdev/ByteDatabase.",
+  "main": "dist/lib/index.js",
+  "scripts": {
+    "test": "node dist/spec/test.js"
+  },
+  "keywords": [
+    "database",
+    "db",
+    "bytedb",
+    "byte.db",
+    "js database",
+    "js db",
+    "js bytedb",
+    "js byte.db"
+  ],
+  "dependencies": {
+    "better-sqlite3": "^7.5.3",
+    "chalk": "^4.1.2",
+    "lodash": "^4.17.21"
+  }
+}
